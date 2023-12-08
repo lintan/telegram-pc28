@@ -105,3 +105,17 @@ node app
 PC28演示群组：[@pc28chat](https://t.me/pc28chat)
 
 PC28网页版演示群组 [@pc28html](https://t.me/pc28html)
+
+
+## 电报机器人创建教程
+
+1. 打开 Telegram 搜索框，输入 @BotFather ，通过它申请建立一个新的机器人项目。
+
+2. 向 @BotFather 发送指令 /newbot ，申请建立一个新的机器人。
+
+3. 输入用户名后， 机器人就申请成功了。 如果你只是要一个可以用的机器人， 到这步就够了。 其中的 bot token: 1287833603:AAGmx9hQq6ViT3km0_77z8psBGqUKfdpSHY 是最重要的部分， 不要让人看到， 否则别人可以控制你的机器人。
+
+
+>咨询联系 [@cody](https://t.me/cody0512) (不常登，请耐心等候)
+
+
